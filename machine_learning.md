@@ -24,12 +24,10 @@ Read this article what can we get it from keras w/ tensorflow
 
 
 ### install Anaconda3 w/ python 3.6.1.
-Now, We have the official tensorflow installation guide here. but I do not recommend it.
-* https://www.tensorflow.org/install/install_windows#installing_with_anaconda
-<br>
-For simplicity, I would recommend to use Anaconda following this guide below.
+Now, We have the official tensorflow installation guide here. but I do not recommend it.<br>
+For simplicity, I would recommend to follow this guide below.
 * http://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda
-<br>
+
 
 Following this guide, you will install Python libraries used for deep learning, specifically: Theano, TensorFlow, and Keras.<br>
 here is my configurations;<br>
@@ -42,7 +40,5 @@ keras: 2.0.5
 ### let's run the first neural network tutorial w/ python keras 
 Once Anaconda + kera is installed, time to run a tutorial.<br>
 * [http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
-
-
 
 
