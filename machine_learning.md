@@ -41,4 +41,17 @@ keras: 2.0.5
 Once Anaconda + kera is installed, time to run a tutorial.<br>
 * [http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/](http://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
 
-
+From this example, we are dealing with indian diabete data. 
+Download it from here (http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data)
+```
+* For Each Attribute: (all numeric-valued)
+   1. Number of times pregnant
+   2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+   3. Diastolic blood pressure (mm Hg)
+   4. Triceps skin fold thickness (mm)
+   5. 2-Hour serum insulin (mu U/ml)
+   6. Body mass index (weight in kg/(height in m)^2)
+   7. Diabetes pedigree function
+   8. Age (years)
+   9. Class variable (0 or 1)
+```   
